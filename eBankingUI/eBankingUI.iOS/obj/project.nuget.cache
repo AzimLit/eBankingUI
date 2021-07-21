@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ymp0W6b4sLEzYnZyJm7ljbVf1oNQfPEVX46wEU7A8h5SBG5PvtVjw5IdNBdouj3M6Juom+L6R8XaLrXhBBEd9A==",
+  "success": true,
+  "projectFilePath": "D:\\Sauvegardes\\mySourceCodes\\source\\repos\\eBankingUI\\eBankingUI\\eBankingUI.iOS\\eBankingUI.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Azim Litanga\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Azim Litanga\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Azim Litanga\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
